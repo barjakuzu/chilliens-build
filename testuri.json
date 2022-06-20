@@ -1,0 +1,22 @@
+{
+    "name": "test",
+    "symbol": "test",
+    "description": "test",
+    "seller_fee_basis_points": 0,
+    "image": "https://arweave.net/K__YRU0T1-rTkZS4L662fAqPc8Ub5PxBkP_4OKod3uw",
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "https://arweave.net/K__YRU0T1-rTkZS4L662fAqPc8Ub5PxBkP_4OKod3uw"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "6oSo5iBJ9GGyP77u4y76fryHnooDzgQk3PgBfrvDXUGU",
+                "share": 100
+            }
+        ]
+    }
+}
