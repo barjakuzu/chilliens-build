@@ -3,12 +3,12 @@
     "symbol": "CHILL",
     "description": "Chillest community-driven NFT collection on Solana Blockchain",
     "seller_fee_basis_points": 0,
-    "image": "https://github.com/barjakuzu/chilliens-build/blob/97a9e29751779e2bfcf192c04f2a5b12258e92dc/logo%20New.png",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRpsnPTZszkVfWx6oepgvHtSppyBjZYiUiPp4MxFx2KTf/",
     "properties": {
         "files": [
             {
                 "type": "image/png",
-                "uri": "https://github.com/barjakuzu/chilliens-build/blob/97a9e29751779e2bfcf192c04f2a5b12258e92dc/logo%20New.png"
+                "uri": "https://gateway.pinata.cloud/ipfs/QmRpsnPTZszkVfWx6oepgvHtSppyBjZYiUiPp4MxFx2KTf/"
             }
         ],
         "category": "image",
