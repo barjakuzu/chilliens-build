@@ -1,0 +1,28 @@
+@font-face {font-family: "Lulo Clean One Bold";
+  src: url("164a60c2e090248befbcf32fdd5af386.eot"); /* IE9*/
+  src: url("164a60c2e090248befbcf32fdd5af386.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("164a60c2e090248befbcf32fdd5af386.woff2") format("woff2"), /* chrome、firefox */
+  url("164a60c2e090248befbcf32fdd5af386.woff") format("woff"), /* chrome、firefox */
+  url("164a60c2e090248befbcf32fdd5af386.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("164a60c2e090248befbcf32fdd5af386.svg#Lulo Clean One Bold") format("svg"); /* iOS 4.1- */
+}
+
+body {
+  font-family:"Lulo Clean One Bold" !important;
+  
+background: url(mintbanner.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.demo{
+  font-family:"Lulo Clean One Bold" !important;
+  font-size:16px;font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
